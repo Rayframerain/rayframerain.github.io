@@ -2800,3 +2800,33 @@ header.header {
     padding: 10px 12px;
   }
 }
+/* sidebar social icon*/
+.plurk {
+  background-image: url("/images/plurk.svg");
+  background-size: 1em 1em;
+  opacity: 0.55;
+  background-position: 0.05rem 0.2rem;
+  background-repeat: no-repeat;
+  height: 1rem;
+  width: 1rem;
+  border-radius: 0rem;
+/*滑鼠停留在圖標上時，圖標呈現發光效果*/
+}
+.plurk:hover {
+  opacity: 1;
+}
+/* sidebar social icon*/
+.plurk {
+  background-image: url("/images/plurk.svg");
+  background-size: 1em 1em;
+  opacity: 0.55;
+  background-position: 0.05rem 0.2rem;
+  background-repeat: no-repeat;
+  height: 1rem;
+  width: 1rem;
+  border-radius: 0rem;
+/*滑鼠停留在圖標上時，圖標呈現發光效果*/
+}
+.plurk:hover {
+  opacity: 1;
+}
