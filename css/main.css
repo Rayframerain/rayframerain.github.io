@@ -1377,7 +1377,6 @@ pre code {
   border: 1px solid #eee;
   max-width: 120px;
   padding: 2px;
-  border-radius: 50%;
 }
 .site-author-name {
   color: var(--text-color);
@@ -2834,6 +2833,9 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-position: 50% 50%;
+}
+:root {
+  --content-bg-color: rgba(255,255,255,0.749);
 }
 /* sidebar social icon*/
 .plurk {
