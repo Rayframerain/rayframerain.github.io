@@ -2700,6 +2700,14 @@ body {
 body,
 .post-body {
   color: #333 !important;
+/* ===== 首页文章标题和链接颜色 ===== */
+}
+.post-title a {
+  color: #333 /* 深灰色标题 */;
+  text-decoration: none;
+}
+.post-title a:hover {
+  color: #1a73e8 /* 悬停变蓝色 */;
 }
 /* sidebar social icon*/
 .plurk {
