@@ -2697,8 +2697,9 @@ body {
   background-size: cover;
   background-position: 50% 50%;
 }
+body,
 .post-body {
-  color: #333;
+  color: #333 !important;
 }
 /* sidebar social icon*/
 .plurk {
