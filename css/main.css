@@ -2697,6 +2697,9 @@ body {
   background-size: cover;
   background-position: 50% 50%;
 }
+.post-body {
+  color: #333;
+}
 /* sidebar social icon*/
 .plurk {
   background-image: url("/images/plurk.svg");
