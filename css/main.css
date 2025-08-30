@@ -2747,13 +2747,13 @@ code {
   padding: 5px;
   border-radius: 4px;
 }
-.sidebar .sidebar-heading {
-  color: #fff !important;
+.posts-expand .post-title,
+.posts-expand .post-title-link {
+  color: #555 !important;
+  font-weight: 800;
 }
-.post-title,
-.post-title-link {
-  color: #505050 !important;
-  font-weight: 700;
+.posts-expand .post-title-link:hover {
+  color: #555 !important;
 }
 /* sidebar social icon*/
 .plurk {
