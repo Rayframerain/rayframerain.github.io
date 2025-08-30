@@ -2721,7 +2721,6 @@ article {
 }
 a {
   color: #818181;
-  text-decoration: underline;
 }
 a:hover {
   color: #818181;
@@ -2747,6 +2746,14 @@ code {
   color: #222;
   padding: 5px;
   border-radius: 4px;
+}
+.sidebar .sidebar-heading {
+  color: #fff !important;
+}
+.post-title,
+.post-title-link {
+  color: #505050 !important;
+  font-weight: 700;
 }
 /* sidebar social icon*/
 .plurk {
